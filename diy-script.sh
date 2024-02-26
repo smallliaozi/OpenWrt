@@ -45,7 +45,6 @@ git clone --depth=1 -b main https://github.com/fw876/helloworld package/luci-app
 git clone --depth=1 https://github.com/xiaorouji/openwrt-passwall-packages package/openwrt-passwall
 git clone --depth=1 https://github.com/xiaorouji/openwrt-passwall package/luci-app-passwall
 git clone --depth=1 https://github.com/xiaorouji/openwrt-passwall2 package/luci-app-passwall2
-git clone --depth=1 https://github.com/smallliaozi/luci-app-vssr.git package/luci-app-vssr
 git_sparse_clone master https://github.com/vernesong/OpenClash luci-app-openclash
 
 # Themes
